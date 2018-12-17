@@ -5,8 +5,6 @@ https://NationalParksTravelGuide.info
 
 https://watkins656.github.io/group-project-1/
 
-![ScreenShot of our page](assets/images/ScreenShot.PNG)
-
 ## Getting Started
 
 To get started, just choose a park from the list!
