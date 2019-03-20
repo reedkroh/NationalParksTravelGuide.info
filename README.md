@@ -1,9 +1,7 @@
 # NationalParksTravelGuide.info
 A customized travel app for all 58 National Parks of the United States.
 
-https://NationalParksTravelGuide.info (still in process)
-
-https://reedkroh.github.io/NationalParksTravelGuide.info/
+https://NationalParksTravelGuide.info
 
 ## Getting Started
 
